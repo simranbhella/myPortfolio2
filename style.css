@@ -1,0 +1,27 @@
+h1 {
+    color: teal;
+}
+/* *{
+    border: solid;
+}
+*/
+.header{
+    background-color: thistle;
+    display: flex;
+    justify-content: space-between
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Icons{
+    display: flex;
+    justify-content: flex-end;
+}
+.siteDescription{
+    text-align: center;
+}
+body{
+    background-color: #b9b9b9;
+}
